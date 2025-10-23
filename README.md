@@ -10,6 +10,7 @@ Fetch the HTML content of a news website.
 
 Parse and extract the main headlines (<h2> tags).
 
+
 Save those headlines into a .txt file for later reading.
 
 🛠️ Tools & Technologies
